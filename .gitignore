@@ -1,0 +1,6 @@
+.idea/modules.xml
+out/
+*.class
+
+*.xml
+.idea/oo-project.iml
