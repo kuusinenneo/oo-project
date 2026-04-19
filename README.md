@@ -2,6 +2,8 @@
 
 The application is a simple person manager that lets you add, view, update and delete persons.
 
+NOT READY, APLHA VERSION RELEASED!
+
 ## How to run
 
 compile:
